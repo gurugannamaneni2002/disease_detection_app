@@ -1,6 +1,6 @@
 Here's the `README.md` file content for your project:  
 
-```markdown
+
 # Health Assistant - Disease Prediction System
 
 This project is a **Streamlit-based web application** that predicts the likelihood of diseases such as **Heart Disease**, **Lung Cancer**, **Kidney Disease**, and **Breast Cancer** using trained Machine Learning models.
@@ -21,7 +21,6 @@ Make sure you have the following installed on your system:
 ```bash
 git clone https://github.com/your-repo/health-assistant.git
 cd health-assistant
-```
 
 ### Install Dependencies
 Run the following command to install the required Python libraries:
